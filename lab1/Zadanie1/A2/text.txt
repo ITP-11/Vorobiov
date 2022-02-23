@@ -1,0 +1,121 @@
+ Том в устройстве C не имеет метки.
+ Серийный номер тома: 482C-F15B
+
+ Содержимое папки C:\Windows
+
+15.02.2022  11:00    <DIR>          .
+15.02.2022  11:00    <DIR>          ..
+10.10.2019  07:48    <DIR>          AAct_Tools
+07.12.2019  17:35    <DIR>          addins
+01.02.2018  15:54            17 705 aksdrvsetup.log
+06.09.2021  09:32    <DIR>          appcompat
+16.12.2021  17:47    <DIR>          apppatch
+16.02.2022  15:55    <DIR>          AppReadiness
+23.08.2021  19:26    <DIR>          assembly
+15.02.2022  11:00    <DIR>          bcastdvr
+20.10.2021  08:18            81 408 bfsvc.exe
+07.12.2019  12:31    <DIR>          Boot
+07.12.2019  12:14    <DIR>          Branding
+14.02.2022  08:21    <DIR>          CbsTemp
+23.08.2021  19:32            85 055 comsetup.log
+07.12.2019  17:58    <DIR>          Containers
+04.09.2015  19:00    <DIR>          CSC
+07.12.2019  12:14    <DIR>          Cursors
+25.08.2021  21:56    <DIR>          debug
+23.08.2021  19:32            15 243 diagerr.xml
+07.12.2019  12:31    <DIR>          diagnostics
+20.10.2021  19:48    <DIR>          DiagTrack
+23.08.2021  19:32            15 243 diagwrn.xml
+07.12.2019  17:34    <DIR>          DigitalLocker
+20.03.2019  14:10             9 566 DPINST.LOG
+07.12.2019  12:17               776 DtcInstall.log
+02.02.2018  10:17                 0 eDrawingOfficeAutomator.INI
+02.02.2018  09:23    <DIR>          Embedded
+07.12.2019  17:34    <DIR>          en-US
+14.02.2022  08:19         4 968 224 explorer.exe
+07.12.2019  12:14    <DIR>          GameBarPresenceWriter
+07.12.2019  12:31    <DIR>          Globalization
+23.08.2021  19:18    <DIR>          Help
+20.10.2021  08:19         1 075 712 HelpPane.exe
+07.12.2019  12:09            18 432 hh.exe
+07.12.2019  12:31    <DIR>          IdentityCRL
+20.10.2021  19:48    <DIR>          IME
+16.02.2022  15:37    <DIR>          ImmersiveControlPanel
+16.02.2022  15:54    <DIR>          INF
+17.08.2020  21:00    <DIR>          InfusedApps
+07.12.2019  12:14    <DIR>          InputMethod
+07.12.2019  12:14    <DIR>          L2Schemas
+07.12.2019  12:14    <DIR>          LiveKernelReports
+06.09.2021  09:34    <DIR>          Logs
+05.05.2021  08:04       969 526 428 MEMORY.DMP
+07.12.2019  12:08            43 131 mib.bin
+16.02.2022  15:55    <DIR>          Microsoft.NET
+07.12.2019  12:14    <DIR>          Migration
+07.12.2019  12:14    <DIR>          ModemLogs
+15.11.2021  20:20           208 384 notepad.exe
+07.12.2019  17:36    <DIR>          OCR
+01.02.2018  11:16               467 ODBC.INI
+07.12.2019  12:14    <DIR>          Offline Web Pages
+06.09.2021  08:21    <DIR>          Panther
+07.12.2019  12:14    <DIR>          Performance
+20.01.2022  08:09           271 370 PFRO.log
+07.12.2019  12:31    <DIR>          PLA
+15.02.2022  11:00    <DIR>          PolicyDefinitions
+16.02.2022  15:55    <DIR>          Prefetch
+16.02.2022  15:53    <DIR>          PrintDialog
+07.12.2019  12:10            30 831 Professional.xml
+02.02.2018  14:28                36 progress.ini
+16.12.2021  17:47    <DIR>          Provisioning
+20.10.2021  08:19           370 176 regedit.exe
+23.08.2021  19:32    <DIR>          Registration
+15.07.2000  00:00            30 720 regtlib.exe
+07.12.2019  17:37    <DIR>          RemotePackages
+07.12.2019  12:14    <DIR>          rescache
+23.08.2021  19:18    <DIR>          Resources
+15.11.2021  21:08    <DIR>          ru-RU
+07.12.2019  12:14    <DIR>          SchCache
+07.12.2019  17:37    <DIR>          schemas
+07.12.2019  17:37    <DIR>          security
+23.08.2021  18:51    <DIR>          ServiceProfiles
+23.08.2021  19:24    <DIR>          ServiceState
+15.02.2022  11:00    <DIR>          servicing
+23.08.2021  19:24    <DIR>          Setup
+16.02.2022  15:36           811 355 setupact.log
+23.08.2021  19:25                 0 setuperr.log
+02.02.2018  17:57             5 943 SharedPCSetup.log
+20.10.2021  19:48    <DIR>          ShellComponents
+15.02.2022  11:00    <DIR>          ShellExperiences
+23.08.2021  19:24    <DIR>          SHELLNEW
+07.12.2019  12:31    <DIR>          SKB
+23.08.2021  19:32    <DIR>          SoftwareDistribution
+02.02.2018  10:07    <DIR>          SolidWorks
+07.12.2019  12:14    <DIR>          Speech
+07.12.2019  12:14    <DIR>          Speech_OneCore
+16.12.2021  08:42           136 192 splwow64.exe
+16.01.1997  00:00            71 680 ST5UNST.EXE
+07.12.2019  12:14    <DIR>          System
+10.07.2015  14:02               219 system.ini
+16.02.2022  15:40    <DIR>          System32
+07.12.2019  17:37    <DIR>          SystemApps
+15.02.2022  11:00    <DIR>          SystemResources
+16.12.2021  17:47    <DIR>          SystemTemp
+15.02.2022  11:00    <DIR>          SysWOW64
+07.12.2019  12:14    <DIR>          TAPI
+23.08.2021  19:32    <DIR>          Tasks
+16.02.2022  15:56    <DIR>          Temp
+28.11.2020  14:00    <DIR>          TextInput
+07.12.2019  12:14    <DIR>          tracing
+09.10.2020  23:50    <DIR>          twain_32
+07.12.2019  12:10            65 024 twain_32.dll
+07.12.2017  12:00    <DIR>          UpdateAssistant
+07.12.2019  12:14    <DIR>          Vss
+07.12.2019  12:14    <DIR>          WaaS
+07.12.2019  12:31    <DIR>          Web
+02.02.2018  09:22               167 win.ini
+16.02.2022  15:53               276 WindowsUpdate.log
+07.12.2019  12:10            11 776 winhlp32.exe
+16.02.2022  15:36    <DIR>          WinSxS
+07.12.2019  17:37           316 640 WMSysPr9.prx
+07.12.2019  00:29            11 264 write.exe
+              32 файлов    978 199 443 байт
+              82 папок  51 016 368 128 байт свободно
