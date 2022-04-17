@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .processes__field {
+        display: flex;
+        flex-direction: row;
+        align-items: flex-start;
+        width: 850px;
+    }
+
+    .processes__fieldAdd {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        margin-left: 15px;
+    }
+
+    .process__addField, .process__deleteField {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .process__addField input, .process__deleteField input {
+        width: 150px;
+        height: 35px;
+        margin-top: 10px;
+    }
+
+    .process__deleteField {
+        margin-left: 15px;
+    }
+    .btn {
+        width: 130px;
+        height: 25px;
+        margin-left: 15px;
+    }
+    .mg {
+        margin-top: 10px;
+    }
+    .process__info {
+        width: 850px;
+    }
+
+</style>
+<body>
+        <div class="processes__field">
+            <div class="process__info" id="processInfoField">
+            </div>
+            <div class="processes__fieldAdd">
+                 <div class="process__addField">
+                    <input type="text" placeholder="Имя процесса" id="processNameAdd">
+                    <input type="text" placeholder="Приоритет процесса" id="processPriorityAdd">
+                    <input type="text" placeholder="Размер блока" id="blockSizeAdd">
+                    <input type="button" value="Добавить" id="addProcessBtn">
+                </div>
+                <div class="process__deleteField">
+                    <input type="text" placeholder="Имя процесса" id="processNameDel">
+                    <input type="text" placeholder="Приоритет процесса" id="processPriorityDel">
+                    <input type="text" placeholder="Номер блока" id="blockNumberDel">
+                    <input type="button" value="Удалить" id="deleteProcessBtn">
+                </div>
+            </div>
+            <div class="process__addField">
+                <input type="button" value="Записать" class="btn" id="writeDownBtn">
+                <input type="button" value="Прочитать" class="btn mg" id="readBtn">
+                <input type="button" value="Освободить" class="btn mg" id="freeMemoryBtn">
+            </div>
+        </div>
+    <script src="./lab9.js"></script>
+</body>
+</html>
